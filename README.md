@@ -2,11 +2,11 @@
   
   
 ### I’m Rebecca Sultana. I'm a CSE undergraduate at State University Of Bangladesh.
--  I love learning new technologies and contributing to open source. 
+- 👩‍💻 I love learning new technologies and contributing to open source. 
 - 🌱 I’m currently learning Introduction to Artificial Intelligence and Machine Learning.
 - 💞️ I’m looking to collaborate on ...
 
-To reach me 👉 [Linkdin](https://www.linkedin.com/feed/)
+Making connections on 👉 [Linkdin](https://www.linkedin.com/feed/)
 
 
 ![Profile views](https://gpvc.arturio.dev/011Rebecca)
