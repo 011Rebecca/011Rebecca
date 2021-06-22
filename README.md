@@ -10,7 +10,7 @@ Making connections on 👉 [Linkdin](https://www.linkedin.com/rebecca_sultana/)
 
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=011Rebecca&show_icons=true&count_private=true&theme=blue" alt="Rebecca" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=011Rebecca&show_icons=true&count_private=true&theme=dark yellow" alt="Rebecca Sultana" />
 
 
 ![Profile views](https://gpvc.arturio.dev/011Rebecca)
