@@ -1,4 +1,6 @@
-Hi there! 👋 
+<b>Hi there! 👋 
+  
+  
 I’m Rebecca! I'm a CSE undergraduate at State University Of Bangladesh.
 - I love learning new technologies and contributing to open source. 
 - 🌱 I’m currently learning Introduction to Artificial Intelligence and Machine Learning.
