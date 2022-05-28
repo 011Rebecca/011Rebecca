@@ -15,11 +15,11 @@ Making connections on 👉 [Linkdin](https://www.linkedin.com/rebecca_sultana/)
 
 
 
-![Rebecca's GitHub stats](https://github-readme-stats.vercel.app/api?username=011Rebecca&show_icons=true&theme=tokyonight)
+![Rebeka's GitHub stats](https://github-readme-stats.vercel.app/api?username=011Rebeka&show_icons=true&theme=tokyonight)
 
 
 
-![](https://komarev.com/ghpvc/?username=011Rebecca&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=011Rebeka&color=blueviolet)
 
 
 
@@ -27,6 +27,6 @@ Making connections on 👉 [Linkdin](https://www.linkedin.com/rebecca_sultana/)
 
 
 <!---
-011Rebecca/011Rebecca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+011Rebeka/011Rebeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
