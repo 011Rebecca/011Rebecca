@@ -2,7 +2,7 @@
   
   
 B.Sc Computer Science & Engineering graduate with a 70% up score in academics.  Have knowledge in C#, HTML, CSS, JavaScript, SQL database, BootStrap, PHP, Java, Python. Ability to implement a full software development life cycle (SDLC) and analyze the performance of programs to correct deficiencies. 
-##### Excellent communication skills and ability to understand client requirements. Continuous learner of new technologies, strategies, and tools.
+#### Excellent communication skills and ability to understand client requirements. Continuous learner of new technologies, strategies, and tools.
 
 
 
