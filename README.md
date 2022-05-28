@@ -1,7 +1,7 @@
 # Hi there!👋      
   
   
-### I’m Rebecca Sultana. I'm a CSE undergraduate at State University Of Bangladesh.
+### I’m Rebeka Sultana. I'm a CSE undergraduate at State University Of Bangladesh.
 - 👩🏻‍💻 I love learning new technologies and contributing to open source. 
 - 🌱 I’m currently learning Introduction to Artificial Intelligence and Machine Learning.
 - 💻 I have experince in latex also basic knowladge of C programming, JAVA, DATABASE.
