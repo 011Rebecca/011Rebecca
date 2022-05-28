@@ -1,10 +1,9 @@
-# Hi there!👋      
+# Hi, I'm Rebeka!👋      
   
   
-### I’m Rebeka Sultana. I'm a CSE undergraduate at State University Of Bangladesh.
-- 👩🏻‍💻 I love learning new technologies and contributing to open source. 
-- 🌱 I’m currently learning Introduction to Artificial Intelligence and Machine Learning.
-- 💻 I have experince in latex also basic knowladge of C programming, JAVA, DATABASE.
+ B.Sc Computer Science & Engineering graduate with a 70% up score in academics.  Have knowledge in C#, HTML, CSS, JavaScript, SQL server, BootStrap, Java, Python.
+## Strong ability to communicate with clients and ability to express ideas clearly and concisely.
+
 
 Making connections on 👉 [Linkdin](https://www.linkedin.com/rebecca_sultana/)
 
