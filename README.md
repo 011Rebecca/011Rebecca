@@ -7,8 +7,7 @@ B.Sc Computer Science & Engineering graduate with a upto 70% score in academics.
 
 
  
-## Find me around the Web 
-Sharing updates on 👉 [Linkdin](https://www.linkedin.com/rebecca_sultana/)
+### Find me around the Web :  [Linkdin](https://www.linkedin.com/rebecca_sultana/) https://twitter.com/RebeccaSultana5
 
 
 
